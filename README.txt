@@ -1,7 +1,7 @@
 Enigma
 ==========
 
-Sample Configuration Files and A Small Testsuite
+Source Code and A Small Testsuite
 ================================================
 
 To run the testsuite, in this directory run:
